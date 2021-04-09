@@ -1,2 +1,6 @@
 # ISAC-SIMO
-Build Change - Intelligent Supervision Assistant for Construction - Sistema Inteligente de Monitoreo de Obra. This project is an offshoot of PD3R, runner-up in the CFC 2018 Global Challenge.
+
+[Construction quality management open source tools by Build Change](https://github.com/ISAC-SIMO). 
+
+This project is maintained in its own organization and will soon be part of [Call for Code® with The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/).
+
