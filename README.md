@@ -1,6 +1,6 @@
-[![Community](https://img.shields.io/badge/Join-Community-blue.svg)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
-
 # ISAC-SIMO
+
+[![Slack](https://img.shields.io/static/v1?label=Slack&message=%23isac-simo&color=blue)](https://callforcode.org/slack)
 
 [Construction quality management open source tools by Build Change](https://github.com/ISAC-SIMO). 
 
